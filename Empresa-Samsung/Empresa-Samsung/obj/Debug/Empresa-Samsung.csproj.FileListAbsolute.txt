@@ -1,0 +1,12 @@
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\bin\Debug\Empresa-Samsung.exe.config
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\bin\Debug\Empresa-Samsung.exe
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\bin\Debug\Empresa-Samsung.pdb
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa-Samsung.csproj.AssemblyReference.cache
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa_Samsung.Form1.resources
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa_Samsung.Properties.Resources.resources
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa-Samsung.csproj.GenerateResource.cache
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa-Samsung.csproj.CoreCompileInputs.cache
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa-Samsung.exe
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa-Samsung.pdb
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa_Samsung.Form2.resources
+C:\Users\carlos.epalmeida1\source\repos\Empresa-Samsung\Empresa-Samsung\obj\Debug\Empresa_Samsung.Form3.resources

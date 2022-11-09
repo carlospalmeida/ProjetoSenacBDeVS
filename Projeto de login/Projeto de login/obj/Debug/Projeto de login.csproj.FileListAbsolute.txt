@@ -1,0 +1,10 @@
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\bin\Debug\Projeto de login.exe.config
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\bin\Debug\Projeto de login.exe
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\bin\Debug\Projeto de login.pdb
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto de login.csproj.AssemblyReference.cache
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto_de_login.Form1.resources
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto_de_login.Properties.Resources.resources
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto de login.csproj.GenerateResource.cache
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto de login.csproj.CoreCompileInputs.cache
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto de login.exe
+C:\Users\carlos.epalmeida1\source\repos\Projeto de login\Projeto de login\obj\Debug\Projeto de login.pdb
